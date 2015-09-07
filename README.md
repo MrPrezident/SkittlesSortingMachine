@@ -1,6 +1,4 @@
 # SkittlesSortingMachine
-Arduino code for a custom 3d printed skittles sorting machine
-
 
 This is the arduino code for a custom 3d printed skittles sorting machine designed using tinkered.
 
